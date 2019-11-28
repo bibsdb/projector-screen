@@ -1,0 +1,13 @@
+{
+    "name": "bibsdb/projector-screen-bundle",
+    "description": "Bibsdb projector-screen template.",
+    "type": "symfony-bundle",
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Bibsdb\\ProjectorScreenBundle\\": ""
+        }
+    }
+}

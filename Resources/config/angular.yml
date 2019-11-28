@@ -1,0 +1,5 @@
+assets:
+  js_prod:
+  - bundles/bibsdbinfoportrait/assets/build/bibsdbinfoportrait.js
+modules:
+apps:

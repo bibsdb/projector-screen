@@ -1,0 +1,12 @@
+{
+  "id": "projector-screen",
+  "type": "screen",
+  "name": "Projektor skærm template uden progress bar og counter",
+  "icon": "projector-screen.png",
+  "paths": {
+    "live": "projector-screen-live.html",
+    "edit": "projector-screen-edit.html",
+    "css": "projector-screen.css"
+  },
+  "orientation": "landscape"
+}
