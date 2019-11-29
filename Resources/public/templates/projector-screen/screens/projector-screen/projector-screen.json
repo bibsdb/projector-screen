@@ -1,7 +1,7 @@
 {
   "id": "projector-screen",
   "type": "screen",
-  "name": "Projektor skærm template uden progress bar og counter",
+  "name": "Fuld skærm (uden progress bar og counter)",
   "icon": "projector-screen.png",
   "paths": {
     "live": "projector-screen-live.html",
