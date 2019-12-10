@@ -6,7 +6,8 @@
   "paths": {
     "live": "projector-screen-live.html",
     "edit": "projector-screen-edit.html",
-    "css": "projector-screen.css"
+    "css": "projector-screen.css",
+    "js": "bundles/os2displaydefaulttemplate/templates/js/baseSlide.js"
   },
   "orientation": "landscape"
 }
